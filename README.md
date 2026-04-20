@@ -1,6 +1,37 @@
-# Liste des projets passés de La Barricade
+# Projets passés LB
 
-### laec.ff
+## Sommaire
+* [laec.fr](#laec-(.fr))
+* [Fiscal Kombat](#fiscal-kombat)
+* [Mélenshack](#mélenschak)
+* [agrégateur de flux insoumis](#agrégateur-de-flux-insoumis)
+* [analysons Macron](#analysons-macron)
+* [Mélenchon, oui mais (.fr)](#mélenchon-oui-mais-fr)
+* [Mélenphone](#mélenphone)
+* [Analysons Lepen](#analysons-lepen)
+* [Tambouille électorale](#tambouille-électorale)
+* [Foule Populaire](#foule-populaire)
+* [L'aec c'est toi](#laec-cest-toi)
+* [Opif](#opif)
+* [Comparateur programmes](#comparateur-programmes)
+* [Décodex insoumis](#décodex-insoumis)
+* [r/FranceInsoumise](#rfranceinsoumise)
+* [Toktok](#toktok)
+* [100 jours](#100-jours)
+* [Le contre-mandat](#le-contre-mandat)
+* [url discord-insoumis (.fr)](#url-discord-insoumis-fr)
+* [ParcoursSupercherie (2018)](#parcourssupercherie-2018)
+* [Attaque des gilets jaunes](#attaque-des-gilets-jaunes)
+* [Patrons et Insoumis](#patrons-et-insoumis)
+* [FAQ de l'aec](#faq-de-laec)
+* [Simulateur d'impôts du NFP](#simulateur-dimpôts-du-nfp)
+* [Gôche ou drouate](#gôche-ou-drouate)
+
+---
+
+## Liste
+
+### laec (.fr)
 https://laec.fr
 
 site du programme de LFI
